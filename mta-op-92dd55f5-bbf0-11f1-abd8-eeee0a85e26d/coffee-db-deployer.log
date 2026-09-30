@@ -1,0 +1,760 @@
+#2026 09 29 10:29:49.163#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-7408#
+[PollStageAppStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:29:14.642540] Updated app with guid a4aacde0-438d-43f0-beba-b91e094553de ({"lifecycle"=>{"data"=>{"buildpacks"=>["nodejs_buildpack"]}, "type"=>"buildpack"}}) (STDOUT, API)#
+#2026 09 29 10:29:49.163#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-7408#
+[PollStageAppStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:29:14.739120] Updating process: "web" (STDOUT, API)#
+#2026 09 29 10:29:49.163#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-7408#
+[PollStageAppStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:29:29.104365] Uploading app package for app with guid a4aacde0-438d-43f0-beba-b91e094553de (STDOUT, API)#
+#2026 09 29 10:29:49.163#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-7408#
+[PollStageAppStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:29:29.289254] Updated app with guid a4aacde0-438d-43f0-beba-b91e094553de ({"environment_variables"=>"[PRIVATE DATA HIDDEN]"}) (STDOUT, API)#
+#2026 09 29 10:29:49.163#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-7408#
+[PollStageAppStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:29:39.474891] Creating build for app with guid a4aacde0-438d-43f0-beba-b91e094553de (STDOUT, API)#
+#2026 09 29 10:29:49.163#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-7408#
+[PollStageAppStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:29:39.946643] Downloading nodejs_buildpack... (STDOUT, STG)#
+#2026 09 29 10:29:49.163#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-7408#
+[PollStageAppStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:29:39.984454] Downloaded nodejs_buildpack (STDOUT, STG)#
+#2026 09 29 10:29:49.163#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-7408#
+[PollStageAppStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:29:39.984547] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 creating container for instance d9557301-1fbd-480e-902f-4c5c8013eee0 (STDOUT, STG)#
+#2026 09 29 10:29:49.163#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-7408#
+[PollStageAppStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:29:40.842432] Security group rules were updated (STDOUT, STG)#
+#2026 09 29 10:29:49.163#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-7408#
+[PollStageAppStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:29:40.896097] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 successfully created container for instance d9557301-1fbd-480e-902f-4c5c8013eee0 (STDOUT, STG)#
+#2026 09 29 10:29:49.163#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-7408#
+[PollStageAppStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:29:42.154920] Downloading app package... (STDOUT, STG)#
+#2026 09 29 10:29:49.163#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-7408#
+[PollStageAppStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:29:42.154961] Downloading build artifacts cache... (STDOUT, STG)#
+#2026 09 29 10:29:49.163#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-7408#
+[PollStageAppStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:29:42.260486] Downloaded build artifacts cache (216B) (STDOUT, STG)#
+#2026 09 29 10:29:49.163#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-7408#
+[PollStageAppStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:29:42.647043] Downloaded app package (2.3M) (STDOUT, STG)#
+#2026 09 29 10:29:49.163#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-7408#
+[PollStageAppStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:29:42.801171] -----> Nodejs Buildpack version 1.9.4 (STDOUT, STG)#
+#2026 09 29 10:29:49.163#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-7408#
+[PollStageAppStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:29:42.902504] -----> Bootstrapping python (STDOUT, STG)#
+#2026 09 29 10:29:49.163#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-7408#
+[PollStageAppStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:29:42.902534] -----> Installing python 3.13.15 (STDOUT, STG)#
+#2026 09 29 10:29:49.163#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-7408#
+[PollStageAppStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:29:42.902673] Copy [/tmp/buildpacks/5be6efbe8830cdb7/dependencies/6832464ec708e1392d482a6034aa2c94/python_3.13.15_linux_x64_cflinuxfs4_0c9cd9fd.tgz] (STDOUT, STG)#
+#2026 09 29 10:29:49.163#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-7408#
+[PollStageAppStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:29:47.507269] -----> Installing binaries (STDOUT, STG)#
+#2026 09 29 10:29:49.163#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-7408#
+[PollStageAppStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:29:47.507495] engines.node (package.json): ^24 (STDOUT, STG)#
+#2026 09 29 10:29:49.163#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-7408#
+[PollStageAppStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:29:47.507570] engines.npm (package.json): unspecified (use default) (STDOUT, STG)#
+#2026 09 29 10:29:49.163#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-7408#
+[PollStageAppStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:29:47.507585] -----> Installing node 24.19.0 (STDOUT, STG)#
+#2026 09 29 10:29:49.163#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-7408#
+[PollStageAppStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:29:47.507673] Copy [/tmp/buildpacks/5be6efbe8830cdb7/dependencies/cf9035c55d85610a9158faa009b7a7b5/node_24.19.0_linux_x64_cflinuxfs4_9ab26efa.tgz] (STDOUT, STG)#
+#2026 09 29 10:29:59.234#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9581#
+[PollStageAppStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:29:50.101873] Using default npm version: 11.17.0 (STDOUT, STG)#
+#2026 09 29 10:29:59.234#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9581#
+[PollStageAppStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:29:50.101894] -----> Installing yarn 1.22.22 (STDOUT, STG)#
+#2026 09 29 10:29:59.234#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9581#
+[PollStageAppStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:29:50.102067] Copy [/tmp/buildpacks/5be6efbe8830cdb7/dependencies/e4fe26756e9984a665478d350474fa2e/yarn_1.22.22_linux_noarch_any-stack_b6132b86.tgz] (STDOUT, STG)#
+#2026 09 29 10:29:59.234#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9581#
+[PollStageAppStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:29:50.476282] Installed yarn 1.22.22 (STDOUT, STG)#
+#2026 09 29 10:29:59.234#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9581#
+[PollStageAppStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:29:50.476319] -----> Creating runtime environment (STDOUT, STG)#
+#2026 09 29 10:29:59.234#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9581#
+[PollStageAppStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:29:50.478130] NODE_ENV=production (STDOUT, STG)#
+#2026 09 29 10:29:59.234#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9581#
+[PollStageAppStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:29:50.478166] NODE_HOME=/tmp/contents4263754373/deps/0/node (STDOUT, STG)#
+#2026 09 29 10:29:59.234#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9581#
+[PollStageAppStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:29:50.478181] NODE_MODULES_CACHE=true (STDOUT, STG)#
+#2026 09 29 10:29:59.234#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9581#
+[PollStageAppStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:29:50.478183] NODE_VERBOSE=false (STDOUT, STG)#
+#2026 09 29 10:29:59.234#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9581#
+[PollStageAppStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:29:50.478189] NPM_CONFIG_LOGLEVEL=error (STDOUT, STG)#
+#2026 09 29 10:29:59.234#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9581#
+[PollStageAppStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:29:50.478202] NPM_CONFIG_PRODUCTION=true (STDOUT, STG)#
+#2026 09 29 10:29:59.234#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9581#
+[PollStageAppStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:29:50.478204] -----> Building dependencies (STDOUT, STG)#
+#2026 09 29 10:29:59.234#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9581#
+[PollStageAppStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:29:50.478257] Prebuild detected (node_modules already exists) (STDOUT, STG)#
+#2026 09 29 10:29:59.234#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9581#
+[PollStageAppStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:29:50.478290] Rebuilding any native modules (STDOUT, STG)#
+#2026 09 29 10:29:59.234#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9581#
+[PollStageAppStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:29:51.066005] rebuilt dependencies successfully (STDOUT, STG)#
+#2026 09 29 10:29:59.234#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9581#
+[PollStageAppStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:29:51.140278] Installing any new modules (package.json + package-lock.json) (STDOUT, STG)#
+#2026 09 29 10:29:59.234#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9581#
+[PollStageAppStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:29:51.628975] up to date in 400ms (STDOUT, STG)#
+#2026 09 29 10:29:59.234#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9581#
+[PollStageAppStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:29:51.629218] 4 packages are looking for funding (STDOUT, STG)#
+#2026 09 29 10:29:59.234#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9581#
+[PollStageAppStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:29:51.629281] run `npm fund` for details (STDOUT, STG)#
+#2026 09 29 10:29:59.234#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9581#
+[PollStageAppStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:29:52.572157] Contrast Security no credentials found. Will not write environment files. (STDOUT, STG)#
+#2026 09 29 10:30:09.158#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9590#
+[PollStageAppStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:02.709645] Exit status 0 (STDOUT, STG)#
+#2026 09 29 10:30:09.158#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9590#
+[PollStageAppStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:02.709686] Uploading droplet, build artifacts cache... (STDOUT, STG)#
+#2026 09 29 10:30:09.158#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9590#
+[PollStageAppStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:02.709733] Uploading droplet... (STDOUT, STG)#
+#2026 09 29 10:30:09.158#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9590#
+[PollStageAppStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:02.710010] Uploading build artifacts cache... (STDOUT, STG)#
+#2026 09 29 10:30:09.158#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9590#
+[PollStageAppStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:02.733936] Uploaded build artifacts cache (225B) (STDOUT, STG)#
+#2026 09 29 10:30:09.158#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9590#
+[PollStageAppStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:03.731638] Creating droplet for app with guid a4aacde0-438d-43f0-beba-b91e094553de (STDOUT, API)#
+#2026 09 29 10:30:09.158#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9590#
+[PollStageAppStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:07.803812] Uploaded droplet (59.3M) (STDOUT, STG)#
+#2026 09 29 10:30:09.158#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9590#
+[PollStageAppStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:07.832010] Uploading complete (STDOUT, STG)#
+#2026 09 29 10:30:09.158#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9590#
+[PollStageAppStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:08.543491] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 stopping instance d9557301-1fbd-480e-902f-4c5c8013eee0 (STDOUT, STG)#
+#2026 09 29 10:30:09.158#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9590#
+[PollStageAppStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:08.543538] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 destroying container for instance d9557301-1fbd-480e-902f-4c5c8013eee0 (STDOUT, STG)#
+#2026 09 29 10:30:09.158#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9590#
+[PollStageAppStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:08.598854] Staging complete for build d9557301-1fbd-480e-902f-4c5c8013eee0 (STDOUT, API)#
+#2026 09 29 10:30:19.173#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9594#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:29:14.642540] Updated app with guid a4aacde0-438d-43f0-beba-b91e094553de ({"lifecycle"=>{"data"=>{"buildpacks"=>["nodejs_buildpack"]}, "type"=>"buildpack"}}) (STDOUT, API)#
+#2026 09 29 10:30:19.173#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9594#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:29:14.739120] Updating process: "web" (STDOUT, API)#
+#2026 09 29 10:30:19.173#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9594#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:29:29.104365] Uploading app package for app with guid a4aacde0-438d-43f0-beba-b91e094553de (STDOUT, API)#
+#2026 09 29 10:30:19.173#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9594#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:29:29.289254] Updated app with guid a4aacde0-438d-43f0-beba-b91e094553de ({"environment_variables"=>"[PRIVATE DATA HIDDEN]"}) (STDOUT, API)#
+#2026 09 29 10:30:19.173#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9594#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:29:39.474891] Creating build for app with guid a4aacde0-438d-43f0-beba-b91e094553de (STDOUT, API)#
+#2026 09 29 10:30:19.173#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9594#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:29:39.946643] Downloading nodejs_buildpack... (STDOUT, STG)#
+#2026 09 29 10:30:19.173#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9594#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:29:39.984454] Downloaded nodejs_buildpack (STDOUT, STG)#
+#2026 09 29 10:30:19.173#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9594#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:29:39.984547] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 creating container for instance d9557301-1fbd-480e-902f-4c5c8013eee0 (STDOUT, STG)#
+#2026 09 29 10:30:19.173#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9594#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:29:40.842432] Security group rules were updated (STDOUT, STG)#
+#2026 09 29 10:30:19.173#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9594#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:29:40.896097] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 successfully created container for instance d9557301-1fbd-480e-902f-4c5c8013eee0 (STDOUT, STG)#
+#2026 09 29 10:30:19.173#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9594#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:29:42.154920] Downloading app package... (STDOUT, STG)#
+#2026 09 29 10:30:19.173#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9594#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:29:42.154961] Downloading build artifacts cache... (STDOUT, STG)#
+#2026 09 29 10:30:19.173#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9594#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:29:42.260486] Downloaded build artifacts cache (216B) (STDOUT, STG)#
+#2026 09 29 10:30:19.173#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9594#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:29:42.647043] Downloaded app package (2.3M) (STDOUT, STG)#
+#2026 09 29 10:30:19.173#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9594#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:29:42.801171] -----> Nodejs Buildpack version 1.9.4 (STDOUT, STG)#
+#2026 09 29 10:30:19.173#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9594#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:29:42.902504] -----> Bootstrapping python (STDOUT, STG)#
+#2026 09 29 10:30:19.173#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9594#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:29:42.902534] -----> Installing python 3.13.15 (STDOUT, STG)#
+#2026 09 29 10:30:19.173#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9594#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:29:42.902673] Copy [/tmp/buildpacks/5be6efbe8830cdb7/dependencies/6832464ec708e1392d482a6034aa2c94/python_3.13.15_linux_x64_cflinuxfs4_0c9cd9fd.tgz] (STDOUT, STG)#
+#2026 09 29 10:30:19.173#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9594#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:29:47.507269] -----> Installing binaries (STDOUT, STG)#
+#2026 09 29 10:30:19.173#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9594#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:29:47.507495] engines.node (package.json): ^24 (STDOUT, STG)#
+#2026 09 29 10:30:19.173#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9594#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:29:47.507570] engines.npm (package.json): unspecified (use default) (STDOUT, STG)#
+#2026 09 29 10:30:19.173#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9594#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:29:47.507585] -----> Installing node 24.19.0 (STDOUT, STG)#
+#2026 09 29 10:30:19.173#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9594#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:29:47.507673] Copy [/tmp/buildpacks/5be6efbe8830cdb7/dependencies/cf9035c55d85610a9158faa009b7a7b5/node_24.19.0_linux_x64_cflinuxfs4_9ab26efa.tgz] (STDOUT, STG)#
+#2026 09 29 10:30:19.173#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9594#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:29:50.101873] Using default npm version: 11.17.0 (STDOUT, STG)#
+#2026 09 29 10:30:19.173#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9594#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:29:50.101894] -----> Installing yarn 1.22.22 (STDOUT, STG)#
+#2026 09 29 10:30:19.173#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9594#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:29:50.102067] Copy [/tmp/buildpacks/5be6efbe8830cdb7/dependencies/e4fe26756e9984a665478d350474fa2e/yarn_1.22.22_linux_noarch_any-stack_b6132b86.tgz] (STDOUT, STG)#
+#2026 09 29 10:30:19.173#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9594#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:29:50.476282] Installed yarn 1.22.22 (STDOUT, STG)#
+#2026 09 29 10:30:19.173#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9594#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:29:50.476319] -----> Creating runtime environment (STDOUT, STG)#
+#2026 09 29 10:30:19.173#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9594#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:29:50.478130] NODE_ENV=production (STDOUT, STG)#
+#2026 09 29 10:30:19.173#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9594#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:29:50.478166] NODE_HOME=/tmp/contents4263754373/deps/0/node (STDOUT, STG)#
+#2026 09 29 10:30:19.173#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9594#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:29:50.478181] NODE_MODULES_CACHE=true (STDOUT, STG)#
+#2026 09 29 10:30:19.173#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9594#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:29:50.478183] NODE_VERBOSE=false (STDOUT, STG)#
+#2026 09 29 10:30:19.173#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9594#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:29:50.478189] NPM_CONFIG_LOGLEVEL=error (STDOUT, STG)#
+#2026 09 29 10:30:19.173#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9594#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:29:50.478202] NPM_CONFIG_PRODUCTION=true (STDOUT, STG)#
+#2026 09 29 10:30:19.173#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9594#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:29:50.478204] -----> Building dependencies (STDOUT, STG)#
+#2026 09 29 10:30:19.173#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9594#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:29:50.478257] Prebuild detected (node_modules already exists) (STDOUT, STG)#
+#2026 09 29 10:30:19.173#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9594#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:29:50.478290] Rebuilding any native modules (STDOUT, STG)#
+#2026 09 29 10:30:19.173#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9594#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:29:51.066005] rebuilt dependencies successfully (STDOUT, STG)#
+#2026 09 29 10:30:19.173#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9594#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:29:51.140278] Installing any new modules (package.json + package-lock.json) (STDOUT, STG)#
+#2026 09 29 10:30:19.173#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9594#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:29:51.628975] up to date in 400ms (STDOUT, STG)#
+#2026 09 29 10:30:19.173#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9594#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:29:51.629218] 4 packages are looking for funding (STDOUT, STG)#
+#2026 09 29 10:30:19.173#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9594#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:29:51.629281] run `npm fund` for details (STDOUT, STG)#
+#2026 09 29 10:30:19.173#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9594#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:29:52.572157] Contrast Security no credentials found. Will not write environment files. (STDOUT, STG)#
+#2026 09 29 10:30:19.173#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9594#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:02.709645] Exit status 0 (STDOUT, STG)#
+#2026 09 29 10:30:19.173#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9594#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:02.709686] Uploading droplet, build artifacts cache... (STDOUT, STG)#
+#2026 09 29 10:30:19.173#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9594#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:02.709733] Uploading droplet... (STDOUT, STG)#
+#2026 09 29 10:30:19.173#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9594#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:02.710010] Uploading build artifacts cache... (STDOUT, STG)#
+#2026 09 29 10:30:19.173#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9594#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:02.733936] Uploaded build artifacts cache (225B) (STDOUT, STG)#
+#2026 09 29 10:30:19.173#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9594#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:03.731638] Creating droplet for app with guid a4aacde0-438d-43f0-beba-b91e094553de (STDOUT, API)#
+#2026 09 29 10:30:19.173#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9594#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:07.803812] Uploaded droplet (59.3M) (STDOUT, STG)#
+#2026 09 29 10:30:19.173#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9594#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:07.832010] Uploading complete (STDOUT, STG)#
+#2026 09 29 10:30:19.173#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9594#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:08.543491] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 stopping instance d9557301-1fbd-480e-902f-4c5c8013eee0 (STDOUT, STG)#
+#2026 09 29 10:30:19.173#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9594#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:08.543538] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 destroying container for instance d9557301-1fbd-480e-902f-4c5c8013eee0 (STDOUT, STG)#
+#2026 09 29 10:30:19.173#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9594#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:08.598854] Staging complete for build d9557301-1fbd-480e-902f-4c5c8013eee0 (STDOUT, API)#
+#2026 09 29 10:30:19.173#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9594#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:09.231169] Updated app with guid a4aacde0-438d-43f0-beba-b91e094553de ({:droplet_guid=>"1bea10f7-d15e-493a-9da6-4ee6c2de7e73"}) (STDOUT, API)#
+#2026 09 29 10:30:19.173#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9594#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:09.832803] Cell d1cc041a-d5a1-41d6-b9f6-6cda736ce3f0 creating container for instance a16898aa-31d3-4757-9380-641aed9f8d8e (STDOUT, CELL)#
+#2026 09 29 10:30:19.173#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9594#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:10.679523] Security group rules were updated (STDOUT, CELL)#
+#2026 09 29 10:30:19.173#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9594#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:10.727813] Cell d1cc041a-d5a1-41d6-b9f6-6cda736ce3f0 successfully created container for instance a16898aa-31d3-4757-9380-641aed9f8d8e (STDOUT, CELL)#
+#2026 09 29 10:30:19.173#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9594#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:10.865179] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 successfully destroyed container for instance d9557301-1fbd-480e-902f-4c5c8013eee0 (STDOUT, STG)#
+#2026 09 29 10:30:19.173#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9594#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:16.381091] Invoking pre-start scripts. (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:30:19.173#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9594#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:16.598331] Invoking start command. (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:30:19.173#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9594#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:17.076410] > start (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:30:19.173#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9594#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:17.076454] > node node_modules/@sap/hdi-deploy/deploy.js --use-hdb --parameter com.sap.hana.di.table/try_fast_table_migration=true (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:30:19.173#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9594#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:17.247321] VCAP_SERVICES: (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:30:19.173#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9594#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:17.247995] { (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:30:19.173#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9594#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:17.248014] "hana": [ (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:30:19.173#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9594#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:17.248017] { (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:30:19.173#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9594#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:17.248020] "name": "coffee-db", (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:30:19.173#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9594#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:17.248024] "label": "hana", (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:30:19.173#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9594#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:17.248026] "plan": "hdi-shared", (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:30:19.173#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9594#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:17.248028] "credentials": { (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:30:19.173#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9594#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:17.248030] "schema": "D533192BE6214D1CA53AB6E2BE3DB216", (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:30:19.174#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9594#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:17.248033] "database_id": "be76cdd7-62c4-4050-9c5b-e7db25082746", (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:30:19.174#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9594#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:17.248036] "user": "D533192BE6214D1CA53AB6E2BE3DB216_71O1GWCQ1YZU2IRY2MCOI6Z9G_RT", (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:30:19.174#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9594#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:17.248039] "hdi_user": "D533192BE6214D1CA53AB6E2BE3DB216_71O1GWCQ1YZU2IRY2MCOI6Z9G_DT" (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:30:19.174#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9594#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:17.248047] }, (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:30:19.174#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9594#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:17.248049] "tags": [ (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:30:19.174#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9594#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:17.248051] "hana", (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:30:19.174#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9594#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:17.248053] "database", (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:30:19.174#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9594#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:17.248055] "relational" (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:30:19.174#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9594#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:17.248057] ] (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:30:19.174#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9594#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:17.248059] } (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:30:19.174#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9594#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:17.248061] ] (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:30:19.174#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9594#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:17.248062] } (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:30:29.316#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-6567#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:21.668210] @sap/hdi-deploy, version 5.7.0 (mode default), server version unknown (0.0.0.0), cloud version , node version 24.19.0, HDI version -1, container API version -1 (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:30:29.316#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-6567#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:21.668252] Deployment started at 2026-09-29 10:30:21 (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:30:29.316#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-6567#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:21.668571] Using hdb@2.30.1 for connection (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:30:29.316#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-6567#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:21.668581] Detection of server version failed; root cause: HANA Database instance is stopped (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:30:29.316#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-6567#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:21.668591] Detection of cloud version failed; root cause: HANA Database instance is stopped (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:30:29.316#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-6567#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:21.668647] Detection of container API version failed; root cause: HANA Database instance is stopped (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:30:29.316#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-6567#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:21.668692] Detection of HDI version failed; root cause: HANA Database instance is stopped (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:30:29.316#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-6567#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:21.669106] Deployment ended at 2026-09-29 10:30:21 (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:30:29.316#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-6567#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:21.669264] Error: Option parameter is not supported by the server; based on detected server version unknown (STDERR, APP/TASK/deploy)#
+#2026 09 29 10:30:29.316#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-6567#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:21.669414] (4s 543ms) (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:30:29.316#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-6567#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:21.685223] npm notice (STDERR, APP/TASK/deploy)#
+#2026 09 29 10:30:29.316#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-6567#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:21.685253] npm notice New major version of npm available! 11.17.0 -> 12.1.0 (STDERR, APP/TASK/deploy)#
+#2026 09 29 10:30:29.316#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-6567#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:21.685266] npm notice Changelog: https://github.com/npm/cli/releases/tag/v12.1.0 (STDERR, APP/TASK/deploy)#
+#2026 09 29 10:30:29.316#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-6567#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:21.685269] npm notice To update run: npm install -g npm@12.1.0 (STDERR, APP/TASK/deploy)#
+#2026 09 29 10:30:29.316#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-6567#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:21.685271] npm notice (STDERR, APP/TASK/deploy)#
+#2026 09 29 10:30:29.316#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-6567#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:21.766868] Exit status 1 (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:30:29.316#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-6567#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:22.551475] Cell d1cc041a-d5a1-41d6-b9f6-6cda736ce3f0 stopping instance a16898aa-31d3-4757-9380-641aed9f8d8e (STDOUT, CELL)#
+#2026 09 29 10:30:29.316#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-6567#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:22.551521] Cell d1cc041a-d5a1-41d6-b9f6-6cda736ce3f0 destroying container for instance a16898aa-31d3-4757-9380-641aed9f8d8e (STDOUT, CELL)#
+#2026 09 29 10:30:29.316#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-6567#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:25.413642] Cell d1cc041a-d5a1-41d6-b9f6-6cda736ce3f0 successfully destroyed container for instance a16898aa-31d3-4757-9380-641aed9f8d8e (STDOUT, CELL)#
+#2026 09 29 10:30:39.293#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9610#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:21.668210] @sap/hdi-deploy, version 5.7.0 (mode default), server version unknown (0.0.0.0), cloud version , node version 24.19.0, HDI version -1, container API version -1 (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:30:39.293#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9610#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:21.668252] Deployment started at 2026-09-29 10:30:21 (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:30:39.293#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9610#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:21.668571] Using hdb@2.30.1 for connection (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:30:39.293#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9610#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:21.668581] Detection of server version failed; root cause: HANA Database instance is stopped (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:30:39.293#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9610#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:21.668591] Detection of cloud version failed; root cause: HANA Database instance is stopped (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:30:39.293#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9610#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:21.668647] Detection of container API version failed; root cause: HANA Database instance is stopped (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:30:39.293#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9610#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:21.668692] Detection of HDI version failed; root cause: HANA Database instance is stopped (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:30:39.293#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9610#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:21.669106] Deployment ended at 2026-09-29 10:30:21 (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:30:39.293#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9610#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:21.669264] Error: Option parameter is not supported by the server; based on detected server version unknown (STDERR, APP/TASK/deploy)#
+#2026 09 29 10:30:39.293#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9610#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:21.669414] (4s 543ms) (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:30:39.293#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9610#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:21.685223] npm notice (STDERR, APP/TASK/deploy)#
+#2026 09 29 10:30:39.293#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9610#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:21.685253] npm notice New major version of npm available! 11.17.0 -> 12.1.0 (STDERR, APP/TASK/deploy)#
+#2026 09 29 10:30:39.293#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9610#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:21.685266] npm notice Changelog: https://github.com/npm/cli/releases/tag/v12.1.0 (STDERR, APP/TASK/deploy)#
+#2026 09 29 10:30:39.293#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9610#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:21.685269] npm notice To update run: npm install -g npm@12.1.0 (STDERR, APP/TASK/deploy)#
+#2026 09 29 10:30:39.293#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9610#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:21.685271] npm notice (STDERR, APP/TASK/deploy)#
+#2026 09 29 10:30:39.293#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9610#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:21.766868] Exit status 1 (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:30:39.293#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9610#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:22.551475] Cell d1cc041a-d5a1-41d6-b9f6-6cda736ce3f0 stopping instance a16898aa-31d3-4757-9380-641aed9f8d8e (STDOUT, CELL)#
+#2026 09 29 10:30:39.293#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9610#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:22.551521] Cell d1cc041a-d5a1-41d6-b9f6-6cda736ce3f0 destroying container for instance a16898aa-31d3-4757-9380-641aed9f8d8e (STDOUT, CELL)#
+#2026 09 29 10:30:39.293#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9610#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:25.413642] Cell d1cc041a-d5a1-41d6-b9f6-6cda736ce3f0 successfully destroyed container for instance a16898aa-31d3-4757-9380-641aed9f8d8e (STDOUT, CELL)#
+#2026 09 29 10:30:39.293#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9610#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:30.456889] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 creating container for instance 963794b4-46d8-4e1b-9f76-62c0c75aa36c (STDOUT, CELL)#
+#2026 09 29 10:30:39.293#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9610#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:31.272932] Security group rules were updated (STDOUT, CELL)#
+#2026 09 29 10:30:39.293#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9610#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:31.369735] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 successfully created container for instance 963794b4-46d8-4e1b-9f76-62c0c75aa36c (STDOUT, CELL)#
+#2026 09 29 10:30:39.293#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9610#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:38.078940] Invoking pre-start scripts. (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:30:39.293#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9610#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:38.294001] Invoking start command. (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:30:39.293#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9610#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:38.737408] > start (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:30:39.293#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9610#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:38.737441] > node node_modules/@sap/hdi-deploy/deploy.js --use-hdb --parameter com.sap.hana.di.table/try_fast_table_migration=true (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:30:39.293#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9610#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:38.901405] VCAP_SERVICES: (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:30:39.293#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9610#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:38.902081] { (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:30:39.293#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9610#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:38.902113] "hana": [ (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:30:39.293#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9610#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:38.902116] { (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:30:39.293#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9610#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:38.902120] "name": "coffee-db", (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:30:39.293#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9610#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:38.902123] "label": "hana", (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:30:39.293#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9610#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:38.902125] "plan": "hdi-shared", (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:30:39.293#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9610#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:38.902128] "credentials": { (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:30:39.293#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9610#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:38.902131] "schema": "D533192BE6214D1CA53AB6E2BE3DB216", (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:30:39.293#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9610#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:38.902137] "database_id": "be76cdd7-62c4-4050-9c5b-e7db25082746", (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:30:39.293#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9610#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:38.902144] "user": "D533192BE6214D1CA53AB6E2BE3DB216_71O1GWCQ1YZU2IRY2MCOI6Z9G_RT", (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:30:39.293#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9610#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:38.902147] "hdi_user": "D533192BE6214D1CA53AB6E2BE3DB216_71O1GWCQ1YZU2IRY2MCOI6Z9G_DT" (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:30:39.293#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9610#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:38.902149] }, (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:30:39.293#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9610#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:38.902155] "tags": [ (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:30:39.293#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9610#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:38.902161] "hana", (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:30:39.293#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9610#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:38.902164] "database", (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:30:39.293#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9610#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:38.902166] "relational" (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:30:39.293#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9610#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:38.902168] ] (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:30:39.293#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9610#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:38.902170] } (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:30:39.293#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9610#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:38.902173] ] (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:30:39.293#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9610#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:38.902174] } (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:30:49.478#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-6585#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:43.276882] @sap/hdi-deploy, version 5.7.0 (mode default), server version unknown (0.0.0.0), cloud version , node version 24.19.0, HDI version -1, container API version -1 (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:30:49.478#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-6585#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:43.276993] Deployment started at 2026-09-29 10:30:43 (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:30:49.478#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-6585#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:43.277207] Using hdb@2.30.1 for connection (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:30:49.478#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-6585#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:43.277216] Detection of server version failed; root cause: HANA Database instance is stopped (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:30:49.478#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-6585#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:43.277299] Detection of cloud version failed; root cause: HANA Database instance is stopped (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:30:49.478#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-6585#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:43.277363] Detection of container API version failed; root cause: HANA Database instance is stopped (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:30:49.478#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-6585#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:43.277390] Detection of HDI version failed; root cause: HANA Database instance is stopped (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:30:49.478#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-6585#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:43.278402] Deployment ended at 2026-09-29 10:30:43 (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:30:49.478#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-6585#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:43.278900] (4s 492ms) (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:30:49.478#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-6585#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:43.278940] Error: Option parameter is not supported by the server; based on detected server version unknown (STDERR, APP/TASK/deploy)#
+#2026 09 29 10:30:49.478#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-6585#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:43.298391] npm notice (STDERR, APP/TASK/deploy)#
+#2026 09 29 10:30:49.478#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-6585#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:43.298424] npm notice New major version of npm available! 11.17.0 -> 12.1.0 (STDERR, APP/TASK/deploy)#
+#2026 09 29 10:30:49.478#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-6585#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:43.298427] npm notice Changelog: https://github.com/npm/cli/releases/tag/v12.1.0 (STDERR, APP/TASK/deploy)#
+#2026 09 29 10:30:49.478#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-6585#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:43.298431] npm notice To update run: npm install -g npm@12.1.0 (STDERR, APP/TASK/deploy)#
+#2026 09 29 10:30:49.478#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-6585#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:43.298433] npm notice (STDERR, APP/TASK/deploy)#
+#2026 09 29 10:30:49.478#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-6585#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:43.378800] Exit status 1 (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:30:49.478#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-6585#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:44.619102] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 stopping instance 963794b4-46d8-4e1b-9f76-62c0c75aa36c (STDOUT, CELL)#
+#2026 09 29 10:30:49.478#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-6585#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:44.619132] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 destroying container for instance 963794b4-46d8-4e1b-9f76-62c0c75aa36c (STDOUT, CELL)#
+#2026 09 29 10:30:49.478#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-6585#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:46.844852] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 successfully destroyed container for instance 963794b4-46d8-4e1b-9f76-62c0c75aa36c (STDOUT, CELL)#
+#2026 09 29 10:30:59.812#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9614#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:43.276882] @sap/hdi-deploy, version 5.7.0 (mode default), server version unknown (0.0.0.0), cloud version , node version 24.19.0, HDI version -1, container API version -1 (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:30:59.812#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9614#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:43.276993] Deployment started at 2026-09-29 10:30:43 (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:30:59.812#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9614#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:43.277207] Using hdb@2.30.1 for connection (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:30:59.812#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9614#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:43.277216] Detection of server version failed; root cause: HANA Database instance is stopped (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:30:59.812#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9614#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:43.277299] Detection of cloud version failed; root cause: HANA Database instance is stopped (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:30:59.812#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9614#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:43.277363] Detection of container API version failed; root cause: HANA Database instance is stopped (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:30:59.812#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9614#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:43.277390] Detection of HDI version failed; root cause: HANA Database instance is stopped (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:30:59.812#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9614#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:43.278402] Deployment ended at 2026-09-29 10:30:43 (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:30:59.812#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9614#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:43.278900] (4s 492ms) (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:30:59.812#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9614#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:43.278940] Error: Option parameter is not supported by the server; based on detected server version unknown (STDERR, APP/TASK/deploy)#
+#2026 09 29 10:30:59.812#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9614#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:43.298391] npm notice (STDERR, APP/TASK/deploy)#
+#2026 09 29 10:30:59.812#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9614#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:43.298424] npm notice New major version of npm available! 11.17.0 -> 12.1.0 (STDERR, APP/TASK/deploy)#
+#2026 09 29 10:30:59.812#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9614#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:43.298427] npm notice Changelog: https://github.com/npm/cli/releases/tag/v12.1.0 (STDERR, APP/TASK/deploy)#
+#2026 09 29 10:30:59.812#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9614#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:43.298431] npm notice To update run: npm install -g npm@12.1.0 (STDERR, APP/TASK/deploy)#
+#2026 09 29 10:30:59.812#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9614#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:43.298433] npm notice (STDERR, APP/TASK/deploy)#
+#2026 09 29 10:30:59.812#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9614#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:43.378800] Exit status 1 (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:30:59.812#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9614#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:44.619102] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 stopping instance 963794b4-46d8-4e1b-9f76-62c0c75aa36c (STDOUT, CELL)#
+#2026 09 29 10:30:59.812#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9614#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:44.619132] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 destroying container for instance 963794b4-46d8-4e1b-9f76-62c0c75aa36c (STDOUT, CELL)#
+#2026 09 29 10:30:59.812#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9614#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:46.844852] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 successfully destroyed container for instance 963794b4-46d8-4e1b-9f76-62c0c75aa36c (STDOUT, CELL)#
+#2026 09 29 10:30:59.812#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9614#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:51.870024] Cell c839c7b1-088e-41af-b9b7-66256aacd457 creating container for instance 736d810e-1dd6-4797-879e-f08d87d11f40 (STDOUT, CELL)#
+#2026 09 29 10:30:59.812#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9614#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:52.787822] Security group rules were updated (STDOUT, CELL)#
+#2026 09 29 10:30:59.812#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9614#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:52.843249] Cell c839c7b1-088e-41af-b9b7-66256aacd457 successfully created container for instance 736d810e-1dd6-4797-879e-f08d87d11f40 (STDOUT, CELL)#
+#2026 09 29 10:31:09.513#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9617#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:59.846681] Invoking pre-start scripts. (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:09.513#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9617#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:00.070994] Invoking start command. (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:09.513#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9617#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:00.532653] > start (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:09.513#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9617#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:00.532682] > node node_modules/@sap/hdi-deploy/deploy.js --use-hdb --parameter com.sap.hana.di.table/try_fast_table_migration=true (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:09.513#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9617#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:00.691926] VCAP_SERVICES: (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:09.513#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9617#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:00.692443] { (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:09.513#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9617#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:00.692457] "hana": [ (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:09.513#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9617#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:00.692461] { (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:09.513#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9617#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:00.692467] "name": "coffee-db", (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:09.513#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9617#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:00.692470] "label": "hana", (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:09.513#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9617#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:00.692472] "plan": "hdi-shared", (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:09.513#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9617#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:00.692475] "credentials": { (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:09.513#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9617#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:00.692478] "schema": "D533192BE6214D1CA53AB6E2BE3DB216", (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:09.513#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9617#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:00.692480] "database_id": "be76cdd7-62c4-4050-9c5b-e7db25082746", (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:09.513#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9617#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:00.692484] "user": "D533192BE6214D1CA53AB6E2BE3DB216_71O1GWCQ1YZU2IRY2MCOI6Z9G_RT", (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:09.513#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9617#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:00.692487] "hdi_user": "D533192BE6214D1CA53AB6E2BE3DB216_71O1GWCQ1YZU2IRY2MCOI6Z9G_DT" (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:09.513#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9617#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:00.692489] }, (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:09.513#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9617#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:00.692491] "tags": [ (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:09.513#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9617#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:00.692493] "hana", (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:09.513#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9617#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:00.692496] "database", (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:09.513#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9617#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:00.692498] "relational" (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:09.513#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9617#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:00.692500] ] (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:09.513#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9617#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:00.692504] } (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:09.513#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9617#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:00.692510] ] (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:09.513#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9617#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:00.692512] } (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:09.513#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9617#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:05.073286] @sap/hdi-deploy, version 5.7.0 (mode default), server version unknown (0.0.0.0), cloud version , node version 24.19.0, HDI version -1, container API version -1 (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:09.513#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9617#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:05.073663] Deployment started at 2026-09-29 10:31:05 (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:09.513#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9617#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:05.074073] Using hdb@2.30.1 for connection (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:09.513#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9617#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:05.074176] Detection of server version failed; root cause: HANA Database instance is stopped (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:09.513#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9617#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:05.074282] Detection of cloud version failed; root cause: HANA Database instance is stopped (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:09.513#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9617#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:05.074297] Detection of container API version failed; root cause: HANA Database instance is stopped (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:09.513#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9617#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:05.074300] Detection of HDI version failed; root cause: HANA Database instance is stopped (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:09.513#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9617#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:05.074553] Deployment ended at 2026-09-29 10:31:05 (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:09.513#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9617#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:05.074968] (4s 494ms) (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:09.513#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9617#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:05.077745] Error: Option parameter is not supported by the server; based on detected server version unknown (STDERR, APP/TASK/deploy)#
+#2026 09 29 10:31:09.513#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9617#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:05.090014] npm notice (STDERR, APP/TASK/deploy)#
+#2026 09 29 10:31:09.513#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9617#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:05.090050] npm notice New major version of npm available! 11.17.0 -> 12.1.0 (STDERR, APP/TASK/deploy)#
+#2026 09 29 10:31:09.513#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9617#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:05.090056] npm notice Changelog: https://github.com/npm/cli/releases/tag/v12.1.0 (STDERR, APP/TASK/deploy)#
+#2026 09 29 10:31:09.513#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9617#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:05.090060] npm notice To update run: npm install -g npm@12.1.0 (STDERR, APP/TASK/deploy)#
+#2026 09 29 10:31:09.513#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9617#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:05.090063] npm notice (STDERR, APP/TASK/deploy)#
+#2026 09 29 10:31:09.513#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9617#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:05.168425] Exit status 1 (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:09.513#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9617#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:06.300291] Cell c839c7b1-088e-41af-b9b7-66256aacd457 stopping instance 736d810e-1dd6-4797-879e-f08d87d11f40 (STDOUT, CELL)#
+#2026 09 29 10:31:09.513#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9617#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:06.300345] Cell c839c7b1-088e-41af-b9b7-66256aacd457 destroying container for instance 736d810e-1dd6-4797-879e-f08d87d11f40 (STDOUT, CELL)#
+#2026 09 29 10:31:09.513#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9617#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:08.892237] Cell c839c7b1-088e-41af-b9b7-66256aacd457 successfully destroyed container for instance 736d810e-1dd6-4797-879e-f08d87d11f40 (STDOUT, CELL)#
+#2026 09 29 10:31:19.549#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9630#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:30:59.846681] Invoking pre-start scripts. (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:19.549#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9630#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:00.070994] Invoking start command. (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:19.549#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9630#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:00.532653] > start (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:19.549#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9630#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:00.532682] > node node_modules/@sap/hdi-deploy/deploy.js --use-hdb --parameter com.sap.hana.di.table/try_fast_table_migration=true (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:19.549#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9630#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:00.691926] VCAP_SERVICES: (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:19.549#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9630#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:00.692443] { (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:19.549#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9630#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:00.692457] "hana": [ (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:19.549#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9630#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:00.692461] { (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:19.549#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9630#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:00.692467] "name": "coffee-db", (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:19.549#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9630#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:00.692470] "label": "hana", (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:19.549#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9630#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:00.692472] "plan": "hdi-shared", (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:19.549#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9630#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:00.692475] "credentials": { (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:19.549#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9630#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:00.692478] "schema": "D533192BE6214D1CA53AB6E2BE3DB216", (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:19.549#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9630#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:00.692480] "database_id": "be76cdd7-62c4-4050-9c5b-e7db25082746", (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:19.549#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9630#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:00.692484] "user": "D533192BE6214D1CA53AB6E2BE3DB216_71O1GWCQ1YZU2IRY2MCOI6Z9G_RT", (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:19.549#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9630#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:00.692487] "hdi_user": "D533192BE6214D1CA53AB6E2BE3DB216_71O1GWCQ1YZU2IRY2MCOI6Z9G_DT" (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:19.549#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9630#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:00.692489] }, (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:19.549#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9630#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:00.692491] "tags": [ (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:19.549#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9630#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:00.692493] "hana", (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:19.549#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9630#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:00.692496] "database", (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:19.549#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9630#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:00.692498] "relational" (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:19.549#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9630#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:00.692500] ] (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:19.549#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9630#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:00.692504] } (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:19.549#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9630#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:00.692510] ] (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:19.549#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9630#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:00.692512] } (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:19.549#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9630#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:05.073286] @sap/hdi-deploy, version 5.7.0 (mode default), server version unknown (0.0.0.0), cloud version , node version 24.19.0, HDI version -1, container API version -1 (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:19.549#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9630#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:05.073663] Deployment started at 2026-09-29 10:31:05 (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:19.549#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9630#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:05.074073] Using hdb@2.30.1 for connection (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:19.549#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9630#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:05.074176] Detection of server version failed; root cause: HANA Database instance is stopped (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:19.549#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9630#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:05.074282] Detection of cloud version failed; root cause: HANA Database instance is stopped (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:19.549#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9630#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:05.074297] Detection of container API version failed; root cause: HANA Database instance is stopped (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:19.549#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9630#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:05.074300] Detection of HDI version failed; root cause: HANA Database instance is stopped (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:19.549#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9630#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:05.074553] Deployment ended at 2026-09-29 10:31:05 (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:19.549#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9630#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:05.074968] (4s 494ms) (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:19.549#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9630#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:05.077745] Error: Option parameter is not supported by the server; based on detected server version unknown (STDERR, APP/TASK/deploy)#
+#2026 09 29 10:31:19.549#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9630#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:05.090014] npm notice (STDERR, APP/TASK/deploy)#
+#2026 09 29 10:31:19.549#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9630#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:05.090050] npm notice New major version of npm available! 11.17.0 -> 12.1.0 (STDERR, APP/TASK/deploy)#
+#2026 09 29 10:31:19.549#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9630#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:05.090056] npm notice Changelog: https://github.com/npm/cli/releases/tag/v12.1.0 (STDERR, APP/TASK/deploy)#
+#2026 09 29 10:31:19.549#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9630#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:05.090060] npm notice To update run: npm install -g npm@12.1.0 (STDERR, APP/TASK/deploy)#
+#2026 09 29 10:31:19.549#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9630#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:05.090063] npm notice (STDERR, APP/TASK/deploy)#
+#2026 09 29 10:31:19.549#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9630#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:05.168425] Exit status 1 (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:19.549#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9630#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:06.300291] Cell c839c7b1-088e-41af-b9b7-66256aacd457 stopping instance 736d810e-1dd6-4797-879e-f08d87d11f40 (STDOUT, CELL)#
+#2026 09 29 10:31:19.549#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9630#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:06.300345] Cell c839c7b1-088e-41af-b9b7-66256aacd457 destroying container for instance 736d810e-1dd6-4797-879e-f08d87d11f40 (STDOUT, CELL)#
+#2026 09 29 10:31:19.549#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9630#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:08.892237] Cell c839c7b1-088e-41af-b9b7-66256aacd457 successfully destroyed container for instance 736d810e-1dd6-4797-879e-f08d87d11f40 (STDOUT, CELL)#
+#2026 09 29 10:31:19.549#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9630#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:10.450591] Cell c839c7b1-088e-41af-b9b7-66256aacd457 creating container for instance 84302b7a-6c2b-40ca-92c8-c38db5d8880e (STDOUT, CELL)#
+#2026 09 29 10:31:19.549#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9630#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:11.374362] Security group rules were updated (STDOUT, CELL)#
+#2026 09 29 10:31:19.549#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9630#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:11.469155] Cell c839c7b1-088e-41af-b9b7-66256aacd457 successfully created container for instance 84302b7a-6c2b-40ca-92c8-c38db5d8880e (STDOUT, CELL)#
+#2026 09 29 10:31:19.549#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9630#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:18.106388] Invoking pre-start scripts. (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:19.549#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9630#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:18.326385] Invoking start command. (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:19.549#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9630#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:18.800364] > start (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:19.549#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9630#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:18.800389] > node node_modules/@sap/hdi-deploy/deploy.js --use-hdb --parameter com.sap.hana.di.table/try_fast_table_migration=true (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:19.549#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9630#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:18.964451] VCAP_SERVICES: (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:19.549#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9630#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:18.965204] { (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:19.549#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9630#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:18.965218] "hana": [ (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:19.549#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9630#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:18.965222] { (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:19.549#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9630#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:18.965225] "name": "coffee-db", (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:19.549#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9630#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:18.965230] "label": "hana", (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:19.549#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9630#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:18.965232] "plan": "hdi-shared", (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:19.549#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9630#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:18.965234] "credentials": { (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:19.549#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9630#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:18.965237] "schema": "D533192BE6214D1CA53AB6E2BE3DB216", (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:19.549#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9630#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:18.965240] "database_id": "be76cdd7-62c4-4050-9c5b-e7db25082746", (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:19.549#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9630#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:18.965247] "user": "D533192BE6214D1CA53AB6E2BE3DB216_71O1GWCQ1YZU2IRY2MCOI6Z9G_RT", (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:19.549#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9630#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:18.965252] "hdi_user": "D533192BE6214D1CA53AB6E2BE3DB216_71O1GWCQ1YZU2IRY2MCOI6Z9G_DT" (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:19.549#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9630#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:18.965258] }, (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:19.549#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9630#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:18.965260] "tags": [ (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:19.549#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9630#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:18.965261] "hana", (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:19.549#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9630#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:18.965263] "database", (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:19.549#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9630#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:18.965269] "relational" (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:19.549#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9630#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:18.965270] ] (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:19.549#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9630#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:18.965272] } (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:19.549#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9630#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:18.965274] ] (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:19.549#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9630#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:18.965276] } (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:29.649#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9636#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:23.355211] @sap/hdi-deploy, version 5.7.0 (mode default), server version unknown (0.0.0.0), cloud version , node version 24.19.0, HDI version -1, container API version -1 (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:29.649#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9636#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:23.355254] Deployment started at 2026-09-29 10:31:23 (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:29.649#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9636#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:23.355532] Using hdb@2.30.1 for connection (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:29.649#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9636#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:23.355551] Detection of server version failed; root cause: HANA Database instance is stopped (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:29.649#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9636#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:23.355816] Detection of cloud version failed; root cause: HANA Database instance is stopped (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:29.649#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9636#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:23.355926] Detection of container API version failed; root cause: HANA Database instance is stopped (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:29.649#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9636#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:23.355930] Detection of HDI version failed; root cause: HANA Database instance is stopped (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:29.649#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9636#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:23.356333] Deployment ended at 2026-09-29 10:31:23 (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:29.649#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9636#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:23.356564] Error: Option parameter is not supported by the server; based on detected server version unknown (STDERR, APP/TASK/deploy)#
+#2026 09 29 10:31:29.649#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9636#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:23.357353] (4s 508ms) (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:29.649#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9636#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:23.372818] npm notice (STDERR, APP/TASK/deploy)#
+#2026 09 29 10:31:29.649#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9636#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:23.372854] npm notice New major version of npm available! 11.17.0 -> 12.1.0 (STDERR, APP/TASK/deploy)#
+#2026 09 29 10:31:29.649#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9636#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:23.372859] npm notice Changelog: https://github.com/npm/cli/releases/tag/v12.1.0 (STDERR, APP/TASK/deploy)#
+#2026 09 29 10:31:29.649#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9636#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:23.372864] npm notice To update run: npm install -g npm@12.1.0 (STDERR, APP/TASK/deploy)#
+#2026 09 29 10:31:29.649#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9636#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:23.372866] npm notice (STDERR, APP/TASK/deploy)#
+#2026 09 29 10:31:29.649#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9636#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:23.453182] Exit status 1 (STDOUT, APP/TASK/deploy)#
+#2026 09 29 10:31:29.649#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9636#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:23.985473] Cell c839c7b1-088e-41af-b9b7-66256aacd457 stopping instance 84302b7a-6c2b-40ca-92c8-c38db5d8880e (STDOUT, CELL)#
+#2026 09 29 10:31:29.649#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9636#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:23.985513] Cell c839c7b1-088e-41af-b9b7-66256aacd457 destroying container for instance 84302b7a-6c2b-40ca-92c8-c38db5d8880e (STDOUT, CELL)#
+#2026 09 29 10:31:29.649#Z#DEBUG#92dd55f5-bbf0-11f1-abd8-eeee0a85e26d.coffee-db-deployer#flowable-async-job-executor-thread-9636#
+[PollExecuteTaskStatusExecution] a4aacde0-438d-43f0-beba-b91e094553de [2026-09-29T10:31:26.305664] Cell c839c7b1-088e-41af-b9b7-66256aacd457 successfully destroyed container for instance 84302b7a-6c2b-40ca-92c8-c38db5d8880e (STDOUT, CELL)#
